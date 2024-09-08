@@ -1,4 +1,4 @@
-# Termux interface Qurxin 
+# Termux interface Termuxstyle 
 
 <img src="/f.jpg" >
 
@@ -9,15 +9,15 @@
 apt update && upgrade -y 
 pkg install git python mpv figlet -y
 pip install lolcat
-git clone https://github.com/Mraprguild/qurxin
-cd qurxin
+git clone https://github.com/Mraprguild/termuxstyle 
+cd termuxstyle 
 chmod +x *
 sh install.sh
 exit
 ```
 ### One command installation :octocat:
 ```
-apt update && upgrade -y && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/Mraprguild/qurxin && cd qurxin && chmod +x * && ./install.sh
+apt update && upgrade -y && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/Mraprguild/termuxstyle && cd termuxstyle && chmod +x * && ./install.sh
 ```
 ## screen shot
 
